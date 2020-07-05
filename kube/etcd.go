@@ -3,8 +3,8 @@ package kube
 import (
 	"context"
 	"encoding/json"
-	"k8s_announce/conf"
-	"k8s_announce/utils"
+	"kubealarm/conf"
+	"kubealarm/utils"
 
 	"github.com/sirupsen/logrus"
 	"go.etcd.io/etcd/clientv3"

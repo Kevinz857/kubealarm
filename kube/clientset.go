@@ -26,7 +26,7 @@ import (
 	"k8s.io/client-go/tools/clientcmd"
 
 	// Required for GKE, OIDC, and more
-	"k8s_announce/utils"
+	"kubealarm/utils"
 	//_ "k8s.io/client-go/plugin/pkg/client/auth"
 )
 

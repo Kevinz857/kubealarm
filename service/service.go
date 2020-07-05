@@ -3,8 +3,8 @@ package service
 import (
 	"context"
 
-	"k8s_announce/conf"
-	"k8s_announce/utils"
+	"kubealarm/conf"
+	"kubealarm/utils"
 
 	metav1 "k8s.io/apimachinery/pkg/apis/meta/v1"
 

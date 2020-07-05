@@ -11,7 +11,6 @@ require (
 	github.com/fatih/gomodifytags v1.6.0 // indirect
 	github.com/fatih/structtag v1.2.0 // indirect
 	github.com/go-redis/redis v6.15.8+incompatible // indirect
-	github.com/gophercloud/gophercloud v0.1.0
 	github.com/haya14busa/goplay v1.0.0 // indirect
 	github.com/imdario/mergo v0.3.9 // indirect
 	github.com/jehiah/go-strftime v0.0.0-20171201141054-1d33003b3869 // indirect
@@ -40,7 +39,7 @@ require (
 	k8s.io/apiextensions-apiserver v0.18.4 // indirect
 	k8s.io/apimachinery v0.18.4
 	k8s.io/client-go v0.18.4
-	k8s.io/metrics v0.18.4
+	k8s.io/metrics v0.18.4 // indirect
 	k8s.io/utils v0.0.0-20200619165400-6e3d28b6ed19 // indirect
 	sourcegraph.com/sqs/goreturns v0.0.0-20181028201513-538ac6014518 // indirect
 )

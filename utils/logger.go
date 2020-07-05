@@ -1,7 +1,7 @@
 package utils
 
 import (
-	"k8s_announce/conf"
+	"kubealarm/conf"
 	"path"
 	"time"
 

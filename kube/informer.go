@@ -1,9 +1,9 @@
 package kube
 
 import (
-	"k8s_announce/conf"
-	"k8s_announce/service"
-	"k8s_announce/utils"
+	"kubealarm/conf"
+	"kubealarm/service"
+	"kubealarm/utils"
 
 	"github.com/sirupsen/logrus"
 	corev1 "k8s.io/api/core/v1"
