@@ -1,2 +1,5 @@
-# kubealarm
-基于informer感知kube-node宕机微信报警
+
+## 宕机通知
+
+基于informer watch到节点为Notready之后遍历节点pod 列表推送im消息到讨论组
+
