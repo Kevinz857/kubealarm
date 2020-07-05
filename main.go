@@ -3,9 +3,10 @@ package main
 import (
 	"time"
 
-	"k8s_announce/conf"
-	"k8s_announce/kube"
-	"k8s_announce/utils"
+	"kubealarm/conf"
+	"kubealarm/kube"
+	"kubealarm/utils"
+	//"kubealarm/utils"
 )
 
 func init() {

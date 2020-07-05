@@ -1,11 +1,9 @@
-module k8s_announce
+module kubealarm
 
 go 1.13
 
 require (
 	9fans.net/go v0.0.2 // indirect
-	git.wemomo.com/golang/im-client.git v0.0.0-20200619080756-90e627c67437
-	git.wemomo.com/golang/moa-client.git v0.0.0-20191113113643-f2b58e449e96
 	github.com/acroca/go-symbols v0.1.1 // indirect
 	github.com/cweill/gotests v1.5.3 // indirect
 	github.com/davidrjenni/reftools v0.0.0-20191222082827-65925cf01315 // indirect
