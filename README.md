@@ -1,5 +1,5 @@
 
 ## 宕机通知
 
-基于informer watch到节点为宕机微信报警
+基于informer watch 节点状态异常推送企业微信报警
 
